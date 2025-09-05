@@ -1,4 +1,4 @@
-from qrng import qml_random_choice
+from Qrng import qml_random_choice
 from tree import DecisionTree
 import numpy as np
 from collections import Counter
