@@ -1,6 +1,6 @@
 import time
 from random_forest import random_forest
-from quantum_random_number_genrator import qml_random_choice, NumberGenerator
+from Qrng import qml_random_choice, NumberGenerator
 import numpy as np
 from sklearn.model_selection import KFold
 from sklearn.metrics import accuracy_score, f1_score
