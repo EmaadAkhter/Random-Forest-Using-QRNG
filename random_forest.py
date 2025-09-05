@@ -1,4 +1,4 @@
-from quantum_random_number_genrator import qml_random_choice
+from qrng import qml_random_choice
 from tree import DecisionTree
 import numpy as np
 from collections import Counter
