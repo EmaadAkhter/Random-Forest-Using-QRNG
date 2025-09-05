@@ -1,6 +1,6 @@
 import pennylane as qml
 import numpy as np
-from quantum_random_number_genrator import qml_random_choice
+from Qrng import qml_random_choice
 from collections import Counter
 
 class Node:
